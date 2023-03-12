@@ -1,6 +1,6 @@
 # opencv-triangulation-example
 
-This Python code demonstrates how to perform triangulation with OpenCV. In this specific case, it finds the 3d coordinates (with origin of coordinate system at the left camera) of the inner corners of a chessboard that is seen from both cameras.
+This Python code demonstrates how to perform triangulation with OpenCV. In this specific case, it finds the 3d coordinates (with origin of coordinate system at the right camera) of the inner corners of a chessboard that is seen from both cameras.
 
   
   
